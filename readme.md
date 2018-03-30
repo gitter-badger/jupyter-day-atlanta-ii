@@ -2,6 +2,8 @@
 
 # Jupyter Day Atlanta II 
 
+[![Join the chat at https://gitter.im/atl-jugheads/jupyter-day-atlanta-ii](https://badges.gitter.im/atl-jugheads/jupyter-day-atlanta-ii.svg)](https://gitter.im/atl-jugheads/jupyter-day-atlanta-ii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in Atlanta
 
 ---
